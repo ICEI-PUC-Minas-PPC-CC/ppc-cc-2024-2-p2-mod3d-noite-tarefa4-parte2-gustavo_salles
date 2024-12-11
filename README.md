@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Animação 3D- Mocap AI
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: MODELAGEM 3D`
