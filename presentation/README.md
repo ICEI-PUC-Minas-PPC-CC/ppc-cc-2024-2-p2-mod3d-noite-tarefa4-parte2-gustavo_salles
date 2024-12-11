@@ -1,3 +1,7 @@
-# Apresentação da Solução
+# Apresentação do Projeto  
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+O projeto foi criado com uso da ferramenta que cria animações 3D, a MOCAP AI. Eu utilizei o site <a href="(https://www.rokoko.com/products/vision)"> adicionando um vídeo de dança popular do TikTok e fazendo com que a ferramenta aplicasse a mesma dança no avatar criado.
+
+
+
+
